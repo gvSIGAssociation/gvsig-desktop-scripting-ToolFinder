@@ -42,8 +42,7 @@ class ToolFinderPanel(FormPanel):
       
       for action in actions:
         labeled = LabeledValueImpl(action.getName(), action)
-        if (action.isEnabled()):
-          model.addElement(labeled)
+        model.addElement(labeled)
       model.setFilter(self.txtFilter.getText())
       model.sort(True)
       self.lstActions.setModel(model);

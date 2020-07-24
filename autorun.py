@@ -2,9 +2,7 @@
 
 import gvsig
 
+from addons.ToolFinder import actions
+
 def main(*args):
-
-    #Remove this lines and add here your code
-
-    print "hola mundo"
-    pass
+  actions.selfRegister()
