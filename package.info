@@ -1,5 +1,5 @@
 #
-#Fri Jul 24 11:59:05 CEST 2020
+#Fri Jul 24 12:00:36 CEST 2020
 owner=gvSIG Association
 code=ToolFinder
 java-version=j1_7
@@ -17,5 +17,6 @@ categories=
 description=Search and execute tools by name
 owner-url=
 buildNumber=1
+download-url=https\://github.com/gvSIGAssociation/gvsig-desktop-scripting-ToolFinder/releases/download/1.0.0-1/gvSIG-desktop-2.5.1-ToolFinder-1.0.0-1-testing-all-all-j1_7.gvspkg
 gvSIG-version=2.5.1
 name=ToolFinder
