@@ -1,5 +1,5 @@
 #
-#Fri Jul 24 11:59:05 CEST 2020
+#Fri Sep 11 11:03:44 CEST 2020
 owner=gvSIG Association
 code=ToolFinder
 java-version=j1_7
@@ -16,6 +16,6 @@ model-version=1.0.1
 categories=
 description=Search and execute tools by name
 owner-url=
-buildNumber=1
+buildNumber=3
 gvSIG-version=2.5.1
 name=ToolFinder
