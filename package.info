@@ -1,21 +1,22 @@
 #
-#Fri Sep 11 11:03:44 CEST 2020
+#Wed Dec 15 17:14:10 CET 2021
 owner=gvSIG Association
 code=ToolFinder
+download-url=https\://github.com/gvSIGAssociation/gvsig-desktop-scripting-ToolFinder/releases/download/1.0.0-5/gvSIG-desktop-2.6.0-ToolFinder-1.0.0-5-testing-all-all-j1_7.gvspkg
 java-version=j1_7
+operating-system=all
+description=Search and execute tools by name
 official=true
 type=Script
-version=1.0.0-3
-state=testing
-operating-system=all
+web-url=
+version=1.0.0-5
+buildNumber=5
+owner-url=
 dependencies=
 sources-url=
-web-url=
-architecture=all
-model-version=1.0.1
-categories=
-description=Search and execute tools by name
-owner-url=
-buildNumber=3
-gvSIG-version=2.5.1
 name=ToolFinder
+gvSIG-version=2.6.0
+state=testing
+categories=
+model-version=1.0.1
+architecture=all

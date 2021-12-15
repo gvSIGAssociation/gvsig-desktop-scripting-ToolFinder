@@ -71,7 +71,8 @@ def selfRegister():
 
   # Añadimos la entrada en el menu herramientas
   application.addMenu(mytool_action, "tools/"+i18n.getTranslation("_Tool_finder"))
-  
+  application.addTool(mytool_action, "ToolFinder")
+
 def main(*args):
 
     selfRegister()
